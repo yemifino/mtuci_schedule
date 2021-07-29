@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857609285273",
+    "firebase_url": "https://mtuci-6fe74-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "mtuci-6fe74",
+    "storage_bucket": "mtuci-6fe74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857609285273:android:622c4b522987e5846f1208",
+        "android_client_info": {
+          "package_name": "jok.erf.mtucischedule"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857609285273-km39ab8004tr9srmam7lu9ascjfmufd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI4CJLX96sia4Gy34rri3ZhqExh9QeleA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857609285273-km39ab8004tr9srmam7lu9ascjfmufd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
